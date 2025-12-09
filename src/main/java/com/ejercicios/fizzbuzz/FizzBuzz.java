@@ -1,4 +1,4 @@
-package ejercicios.com.FizzBuzz;
+package com.ejercicios.fizzbuzz;
 
 public class FizzBuzz {
     public static void main() {
